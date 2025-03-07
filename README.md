@@ -1,7 +1,6 @@
 <div align="center">
   <img align="center" width="100px" src="./assets/white_logo.png">
   <h1>Hi, I'm Denilson</h1>
-  <h2><i>Projects</i></h2>
  <h3><strong><a href="https://github.com/denilson-polonio">OPEN TAGADÀ</a></strong> An Open-source tagadà control panel</h3>
   <br>
   
