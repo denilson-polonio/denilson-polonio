@@ -9,9 +9,6 @@
   <strong><a href="https://github.com/denilson-polonio/css-loading-v1">Css Loading v1</a></strong>
   <br>
   <strong><a href="https://github.com/denilson-polonio/bar-manager">Bar Manager</a></strong>
-
-  <h3><i>Other</i></h3>
-  <strong> - </strong>
   
   <h3><i>My Skills</i></h3>
   <img align="center" width="30px" src="./assets/languages/python.svg">
